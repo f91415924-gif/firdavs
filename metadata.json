@@ -1,0 +1,7 @@
+{
+  "name": "AskDesk",
+  "description": "Ultra-minimalist AI customer-support chatbot that answers strictly from your company's own knowledge base in English, Russian, and Uzbek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
